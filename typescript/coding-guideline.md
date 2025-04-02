@@ -19,3 +19,4 @@
 ### ES Modules
 
 - When importing Node.js APIs, use the node: prefix (e.g., "node:fs")
+- Use named exports
