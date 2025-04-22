@@ -3,8 +3,7 @@
 - Write <任意のドキュメンテーション方式> appropriately in Japanese
 - Document all public functions, classes, methods, and interfaces
 - Leave appropriate comments in Japanese
-- Code comments should only document Why, not How or What. Make sure the code itself clearly communicates How and What.
-- Add examples where applicable
+- Code comments must only explain why, never what or how—the code must speak for itself. Violate this and your changes will be rejected immediately.
 - Use complete sentences with appropriate punctuation
 - Keep explanations clear and concise
 - Use proper Markdown formatting
