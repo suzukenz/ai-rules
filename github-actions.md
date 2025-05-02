@@ -1,4 +1,4 @@
-## GitHub Actions Implementation Guidelines
+## GitHub Actions Implementation
 
 - Always set the default shell to bash
 - Group logs into meaningful units
