@@ -1,4 +1,4 @@
-### React Implementation
+# React Implementation
 
 - Use the latest stable version of React.
 - Always use TypeScript and provide type definitions.
