@@ -1,6 +1,6 @@
-Follow the essence of the Philosophy of Software Design.
+## Design Principles
 
-# Design Principles
+Follow the essence of the Philosophy of Software Design.
 
 - **Prioritize simplicity in all changes**: Complexity accumulates incrementally from many small dependencies and obscurities, not from single large errors. Therefore, adopt a "zero tolerance" philosophy to prevent even small additions of complexity.
 - **Code must work, but great design is the primary goal**: Simply having working code is insufficient. Your main responsibility as a developer is to **facilitate future extensions** to the codebase by prioritizing the long-term structure and design quality of the system.

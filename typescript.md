@@ -1,6 +1,6 @@
-# TypeScript Implementation Guidelines
+## TypeScript Implementation Guidelines
 
-## TypeScript Implementation
+### TypeScript Implementation
 
 - Enable strict mode
 - Follow verbatimModuleSyntax
@@ -11,7 +11,7 @@
 - Use mapped types to dynamically create variants of existing types
 - Do not use TypeScript-specific syntaxes such as enum
 
-## ES Modules
+### ES Modules
 
 - When importing Node.js APIs, use the node: prefix (e.g., "node:fs")
 - Use named exports

@@ -1,4 +1,4 @@
-# Code Implementation Guidelines
+## Code Implementation Guidelines
 
 - When dealing with goroutines, use the errgroup package whenever possible
 - Use Table-Driven Tests for testing

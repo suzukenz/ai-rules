@@ -1,4 +1,4 @@
-# Development Philosophy
+## Development Philosophy
 
 - Write clean, maintainable, and scalable code
 - Follow the principles of SOLID

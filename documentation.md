@@ -1,4 +1,4 @@
-# Documentation
+## Documentation
 
 - Use the standard documentation format appropriate for the programming language (such as JSDoc, TSDoc, GoDoc, Python Docstrings)
 - Document all public functions, classes, methods, and interfaces
