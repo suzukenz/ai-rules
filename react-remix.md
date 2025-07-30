@@ -1,14 +1,16 @@
-# React/Remix Development Guidelines
+## React/Remix Development Guidelines
 
-## Routing Convention
+### Routing Convention
 
 ### Folder-based Routes
 
 Always use folder-based routing structure. Each route must be a folder containing:
+
 - `route.tsx` - Main route module with loader/action/component
 - Additional modules specific to that route
 
 Example:
+
 ```
 app/routes/
 ├── _index/
@@ -27,9 +29,10 @@ app/routes/
     └── delete-product-modal.tsx
 ```
 
-### Module Organization
+#### Module Organization
 
 Within each route folder:
+
 - `route.tsx` - Route exports only (loader, action, meta, default component)
 - Separate files for:
   - UI components
