@@ -11,7 +11,7 @@
 - Use mapped types to dynamically create variants of existing types
 - Do not use TypeScript-specific syntaxes such as enum
 - Never use enums; use types instead
-- Prefer functions over classes
+- **Prefer functions over classes**
 
 ### ES Modules
 
